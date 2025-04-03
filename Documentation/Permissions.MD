@@ -1,11 +1,11 @@
-#Permissions
+# Permissions
 
 With ExplosiveProjectiles, we want users to have silly fun while providing excellent reassurance for server-safety.
 
 Please read carefully.
 
 
-#Most to Least Impactful.
+# Most to Least Impactful.
 
 explosiveProjectiles.all
 > - Gives access to all enabled features.
