@@ -29,6 +29,7 @@ Minecraft Plugin that allows projectiles to explode on impact while providing a 
 
 [Youtube](https://www.youtube.com/@SintaxLabs)
 [Twitter](https://x.com/sintaxlabs)
+[Discord](discord.gg/JjqjaJDaF5)
 
 **Donations**
 
