@@ -18,15 +18,18 @@ Minecraft Plugin that allows projectiles to explode on impact while providing a 
 
 > - 1.21.x
 
-# Links!
+# Links
 
 **Projects**
-https://modrinth.com/user/SintaxLabs
-https://legacy.curseforge.com/members/sintaxlabs
+
+[Modrinth](https://modrinth.com/user/SintaxLabs)
+[CurseForge](https://legacy.curseforge.com/members/sintaxlabs)
 
 **Socials**
-https://www.youtube.com/@SintaxLabs
-https://x.com/sintaxlabs
+
+[Youtube](https://www.youtube.com/@SintaxLabs)
+[Twitter](https://x.com/sintaxlabs)
 
 **Donations**
-https://ko-fi.com/jammingcat21
+
+[Ko-Fi](https://ko-fi.com/jammingcat21)
