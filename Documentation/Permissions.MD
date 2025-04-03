@@ -12,7 +12,7 @@ explosiveProjectiles.all
 
 explosiveProjectiles.projectiles
 > - **This must be enabled for anything else to continue.**
-> - Gives access to projectiles causing the explosive effect.
+> - Gives access to projectiles causing the explosive effect regardless of how harm is toggled.
 
 explosiveProjectiles.breakBlocks
 > - Gives access to breaking blocks if that's enabled.
