@@ -5,7 +5,7 @@ With ExplosiveProjectiles, we want users to have silly fun while providing excel
 Please read carefully.
 
 
-#Order - Most to Least Impactful.
+#Most to Least Impactful.
 
 explosiveProjectiles.all
 > - Gives access to all enabled features.
