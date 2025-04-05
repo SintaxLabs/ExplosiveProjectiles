@@ -1,7 +1,7 @@
 The following error codes should help you narrow down any issues encountered.
 
 
-#Error 23
+# Error 23
 This error means a permission or feature is not toggled. 
 
 Error: 
