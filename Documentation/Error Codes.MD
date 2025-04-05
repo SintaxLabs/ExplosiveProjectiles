@@ -13,8 +13,6 @@ Solution:
 > - Add Permission: **explosiveProjectiles.harmMobs**
 > - Restart Server
 
-If this does not fix your issue, remove the plugin and its folder.
+If this does not fix your issue, remove the plugin and its folder and start with a fresh plugin.
 
 If still having issues, create an issue here or reach out on Discord and submit a ticket.
-
-Enable 
