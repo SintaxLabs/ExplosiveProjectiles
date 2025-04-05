@@ -5,7 +5,7 @@ The following error codes should help you narrow down any issues encountered.
 This error means a permission or feature is not toggled. 
 
 Error: 
-> - Mobs are not getting harmed by explosions.
+> - Ex: Mobs are not getting harmed by explosions.
 
 Solution:
 > - Enable **require-permission**
